@@ -1,0 +1,30 @@
+body {
+text-align: center;   
+line-height: 20px;
+
+}
+
+h1 {
+    color: darkblue;
+    font-family: fantasy;
+    font-style: oblique;
+    font-weight: 570;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.destacados{color: red;
+    background-color: yellow;
+
+}
+
+.foto{
+    border-radius: 100px;
+    border-style: outset;
+    border-width: 9px;
+    border-color: grey;
+}
+
+h4 {
+    font-size: 20px;
+}
