@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    line-height: 20px;
+
+}
+
+h1 {
+    color: darkblue;
+    font-family: fantasy;
+    font-style: oblique;
+    font-weight: 570;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.destacados {
+    color: red;
+    background-color: yellow;
+    box-shadow: -1px 10px 22px 0px rgba(124, 103, 103, 0.75);
+    border: 2px dashed #f24a32;
+}
+
+.foto {
+    border-radius: 100px;
+    border-style: outset;
+    border-width: 9px;
+    border-color: grey;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+ul,
+ol {
+    text-align: center;
+    padding-left: 0;
+    /* Elimina el relleno predeterminado de la lista */
+}
+
+.relevante {
+    color: white;
+    width: 280px;
+    height: 5px;
+    margin: auto;
+    padding: 20px;
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,0.8071603641456583) 3%, rgba(234,240,242,0.5970763305322129) 7%, rgba(175,231,244,0.48783263305322133) 14%, rgba(4,100,120,1) 37%, rgba(4,100,120,0.8575805322128851) 63%, rgba(175,231,244,0.49343487394957986) 86%, rgba(234,240,242,0.6054796918767507) 93%, rgba(255,255,255,0.8155637254901961) 97%);
+}
+
+div{
+    box-shadow: 0px 0px 0px 4px rgba(110,110,110,0.75);
+    padding: 20px;
+    margin: auto;
+    border-radius: 100px;
+}
