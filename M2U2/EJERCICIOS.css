@@ -1,0 +1,146 @@
+/* EJERCICIO 1 */
+#contenedor{
+	border:2px solid black;
+	background-color: white;
+	margin:0 auto;
+	width: 40%;
+	height: 320px;
+    display: center;
+	}
+
+    #rojo{
+        position:relative;
+        left: 187px;
+        text-align: center;
+        color: white;
+        margin:0 auto;
+        height: 33%;
+        width:25%;
+        border:1px solid red;
+        margin-bottom:0px;
+        background-color: red;
+    }
+    
+    #azul{
+        position:relative;
+        left: 187px;
+        text-align: center;
+        color: white;
+        margin:0 auto;
+        height:33%;
+        width:25%;
+        border:1px solid blue;
+        margin-bottom:0px;
+        background-color: blue;
+    }
+    
+    #verde{
+        position:relative;
+        left: 187px;
+        text-align: center;
+        color: white;
+        margin:0 auto;
+        height:33%;
+        width:25%;
+        border:1px solid green;
+        margin-bottom:0px;
+        background-color: green;
+    }
+    
+    /* EJERCICIO 2 */
+    #contenedor2{
+        border:2px solid black;
+        background-color: white;
+        margin:0 ;
+        width: 40%;
+        height: 320px;
+        position: relative;
+        left: 30%;
+        display: inline-flex;
+
+        }
+    
+        #rojo2{
+            position:relative;
+            top: 100px;
+            text-align: center;
+            color: white;
+            margin:0 ;
+            height: 40%;
+            width:40%;
+            border:1px solid red;
+            margin-bottom:0px;
+            background-color: red;
+        }
+        
+        #azul2{
+            position:relative;
+            top: 100px;
+            text-align: center;
+            color: white;
+            margin:0 ;
+            height:40%;
+            width:40%;
+            border:1px solid blue;
+            margin-bottom:0px;
+            background-color: blue;
+        }
+        
+        #verde2{
+            position:relative;
+            top: 100px;
+            text-align: center;
+            color: white;
+            margin:0 ;
+            height:40%;
+            width:40%;
+            border:1px solid green;
+            margin-bottom:0px;
+            background-color: green;
+        }
+    
+        /* EJERCICIO 3 */
+#contenedor3{
+	border:2px solid black;
+	background-color: white;
+	margin:0 ;
+	width: 100%;
+	height: 130px;
+    display: inline-flex;
+    justify-content: space-between; 
+
+	}
+
+    #rojo3{
+        text-align: center;
+        color: white;
+        margin:0 ;
+        height: 99%;
+        width:15%;
+        border:1px solid red;
+        margin-bottom:0px;
+        background-color: red;
+    }
+    
+    #azul3{
+        
+        text-align: center;
+        color: white;
+        margin:0 auto;
+        height:99%;
+        width:15%;
+        border:1px solid blue;
+        margin-bottom:0px;
+        background-color: blue;
+    }
+    
+    #verde3{
+        text-align: center;
+        color: white;
+        margin:0 ;
+        height:99%;
+        width:15%;
+        border:1px solid green;
+        margin-bottom:0px;
+        background-color: green;
+    }
